@@ -20,9 +20,9 @@ React Sight is a live view of the component hierarchy tree of your React applica
 ## Building Your Own Version
 If you'd like to build your own version of React Sight:
 
-1. Clone the repo and `npm install` dependancies
+1. Clone the repo and `npm install` dependencies
 
-2. Use `npm start` to generate the build 
+2. Use `npm start` to generate the build.
 
 3. In Chrome, open the extensions tab and click 'Load Unpacked Extension'. Load the folder '~/ReactSight/chrome-ext'
 
@@ -31,9 +31,9 @@ If you have any additional questions send us a message at reactsight@gmail.com :
 ## Usage
 Hover over nodes to see their state and props in the side panel. 
 
-Hide DOM elements, Redux components, and Router components with the built in filters, so that you can focus only on the components you've written
+Hide DOM elements, Redux components, and Router components with the built-in filters, so that you can focus only on the components you've written.
 
-Zoom in by double clicking, and zoom out by shift + double clicking (mousewheel zoom coming soon!)
+Zoom in by double clicking, and zoom out by shift + double-clicking (mouse wheel zoom coming soon!)
 
 ## Why?
 
